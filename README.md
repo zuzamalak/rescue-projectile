@@ -14,6 +14,12 @@ when launched from a certain height). 2. Finds possible launch angles
 chart showing required launch angles on various celestial bodies (e.g.,
 Moon, Mars, Earth).
 
+## How to run
+
+1. Download the projekt.py file.
+2. Open a terminal and run: python projekt.py or python3 projekt.py (depending on your system).
+3. Follow the instructions. 
+
 \## Requirements
 
 \- Python 3.7 or newer - \`matplotlib\` library
