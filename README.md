@@ -22,4 +22,4 @@ Moon, Mars, Earth).
 
 ## Requirements
 
-- Python 3.7 or newer - \`matplotlib\` library
+- Python 3.7 or newer - `matplotlib` library
