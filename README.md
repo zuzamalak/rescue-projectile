@@ -8,11 +8,9 @@ trajectories.
 
 ## Features
 
-1. Calculates horizontal velocity (required to cover a given distance
-when launched from a certain height). 2. Finds possible launch angles
-(for a given initial speed, distance, and height). 3. Generates a bar
-chart showing required launch angles on various celestial bodies (e.g.,
-Moon, Mars, Earth).
+1. Calculates horizontal velocity (required to cover a given distance when launched from a certain height).
+2. Finds possible launch angles (for a given initial speed, distance, and height).
+3. Generates a bar chart showing required launch angles on various celestial bodies (e.g., Moon, Mars, Earth).
 
 ## How to run
 
